@@ -349,7 +349,7 @@ Might be to begin where started (stochastic gradient descent, saddle points)
 Perhaps know the place for the first time? (dissipation of all energies)
 ```
 
-# 06
+# [06](https://www.gutenberg.org/files/61/61-h/61-h.htm)
 The bourgeoisie, historically, has played a most revolutionary part.
 
 The bourgeoisie, wherever it has got the upper hand, has put an end to all feudal, patriarchal, idyllic relations. It has pitilessly torn asunder the motley feudal ties that bound man to his “natural superiors,” and has left remaining no other nexus between man and man than naked self-interest, than callous “cash payment.” It has drowned the most heavenly ecstasies of religious fervour, of chivalrous enthusiasm, of philistine sentimentalism, in the icy water of egotistical calculation. It has resolved personal worth into exchange value, and in place of the numberless and indefeasible chartered freedoms, has set up that single, unconscionable freedom—Free Trade. In one word, for exploitation, veiled by religious and political illusions, naked, shameless, direct, brutal exploitation.
