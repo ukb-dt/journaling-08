@@ -16,6 +16,11 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+> *The bourgeoisie has stripped of its halo every occupation hitherto honoured and looked up to with reverent awe. It has converted the physician, the lawyer, the priest, the poet, the man of science, into its paid wage labourers.*
+> -Marx & Engels
+
+Written in 1848, this proves isomorphism with concerns about AI replacing jobs (even highly skilled jobs like surgeons in 2026), [doesn't it](https://ukb-dt.github.io/journaling-09/)? The notes below fail to capture this bit ... 
+
 **[Preface](https://ukb-dt.github.io/journaling-07/)**
 
 This document is not an argument in the classical sense, nor a manifesto that promises redemption. It is an atlas-in-progress: an attempt to describe how things move when you stop asking what they *ought* to mean and start asking what they *must* do.
@@ -43,7 +48,7 @@ Read it as an exploration, not a doctrine. Follow the gradients. Refuse the mini
       style="width: 100%; height: auto; display: block; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 </div>
 
-# [00](https://ukb-dt.github.io/journaling-09/)
+# [00](https://ukb-dt.github.io/journaling-10/)
 ```sh
 #ukb-marx 
 
