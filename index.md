@@ -16,7 +16,13 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-> *The bourgeoisie has stripped of its halo every occupation hitherto honoured and looked up to with reverent awe. It has converted the physician, the lawyer, the priest, the poet, the man of science, into its paid wage labourers.*
+> *The bourgeoisie has stripped of its halo*        
+> *Every occupation hitherto honoured*      
+> *And looked up to with reverent awe.*       
+> *It has converted the physician,*      
+> *The lawyer, the priest, the poet,*     
+> *The man of science,*           
+> *Into its paid wage labourers.*         
 > -Marx & Engels
 
 Written in 1848, this proves isomorphism with concerns about AI replacing jobs (even highly skilled jobs like surgeons in 2026), [doesn't it](https://ukb-dt.github.io/journaling-09/)? The notes below fail to capture this bit ... 
