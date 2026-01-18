@@ -16,7 +16,7 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-> *The bourgeoisie has stripped of its halo*        
+> *The bourgeoisie has stripped of its halo*               
 > *Every occupation hitherto honoured*      
 > *And looked up to with reverent awe.*       
 > *It has converted the physician,*      
